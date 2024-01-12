@@ -3,7 +3,9 @@
 A typed-annotated string.
 """
 
+
 def concat(str1: str, str2: str) -> str:
+    
     """
     Function for concatanating two strings.
     """
